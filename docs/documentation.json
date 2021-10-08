@@ -1,0 +1,30 @@
+{
+    "介绍": [
+        {
+            "title": "介绍",
+            "file": "intro/introduction"
+        },
+        {
+            "title": "安装",
+            "file": "intro/install"
+        }
+    ],
+    "组件": [
+        {
+            "title": "图片",
+            "file": "image/imagetextlink"
+        },
+        {
+            "title": "轮播图",
+            "file": "image/swiper"
+        }
+    ,
+        {
+            "title": "卡片",
+            "file": "components/card"
+        }
+
+    ]
+
+
+}
